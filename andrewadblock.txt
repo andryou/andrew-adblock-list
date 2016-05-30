@@ -11,6 +11,7 @@ myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollf
 myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(2) > .pb24 > div:nth-of-type(2)
 myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(2) > .pb24 > div:nth-of-type(3)
 myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .pt24.clearfix.mauto
+myanimelist.net###contentWrapper > .pt24.clearfix.mauto
 myanimelist.net###headerSmall > .banner-header-anime-straming
 www.nyaa.se###main > div:nth-of-type(1)
 www.nyaa.se###main > div:nth-of-type(2)
