@@ -2,9 +2,14 @@
 forums.redflagdeals.com###header_leaderboard
 forums.redflagdeals.com###newsletter_signup_widget
 forums.redflagdeals.com###sidebar > .cbox_gsps.cbox
+myanimelist.net###content > .content-container > .container-left > .pt24.clearfix
 myanimelist.net###content > .content-container > .container-right > .clearfix
+myanimelist.net###content > .content-container > .container-right > ._unit:nth-of-type(3)
+myanimelist.net###content > .content-container > .container-right > ._unit:nth-of-type(6)
 myanimelist.net###content > .pt12.left-column > article:nth-of-type(13) > .left.left_bottom_ad.widget
+myanimelist.net###content > .pt12.left-column > article:nth-of-type(9) > .left.left_bottom_ad.widget
 myanimelist.net###content > .right-column > .widget:nth-of-type(1) > .right.right_top_ad.widget
+myanimelist.net###content > .right-column > .widget:nth-of-type(4) > .right.right_middle_ad.widget > ._unit
 myanimelist.net###content > table > tbody > tr > .borderClass > .js-scrollfix-bottom > .mt16.mauto.clearfix
 myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(1) > td > .border_top > div:nth-of-type(1)
 myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(1) > td > .border_top > div:nth-of-type(2)
